@@ -1,5 +1,5 @@
 <h1 align="center">Ola 👋, Eu sou o Arthur</h1>
-<h3 align="center">Desenvolvedo Front End</h3>
+<h3 align="center">Desenvolvedor Back End</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
